@@ -1,0 +1,6 @@
+*.bkp
+telegram-secrets.conf
+.theme
+printer-*.cfg
+
+resonances/
