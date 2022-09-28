@@ -1,4 +1,5 @@
 *.bkp
+secrets.conf
 telegram-secrets.conf
 .theme
 printer-*.cfg
